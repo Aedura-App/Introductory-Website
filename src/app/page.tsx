@@ -12,7 +12,7 @@ export default function Home() {
         {/* Section 1 */}
         <div id='home' className="h-full flex flex-col justify-center items-center snap-start bg-linear-to-b from-secondary-content from-50% to-primary-content">
           <p className="uppercase font-inter font-extralight text-2xl tracking-[6px]">introducing</p>
-          <h1 className="font-heading text-9xl text-secondary -my-4">AEDURA</h1>
+          <h1 className="font-heading text-9xl text-secondary -my-4">Aedura</h1>
           <p className="text-center mt-20 text-white/50 -tracking-tighter max-w-5xl">Your AI study coach for schools and students alike. We gamify learning, generate smart notes, and create personalized quizzes from your school's papers. B2B and D2C solutions at revolutionary prices.</p>
         </div>
 
@@ -62,11 +62,11 @@ export default function Home() {
             </div>
 
             <div className="flex flex-col flex-1 p-10 gap-10 font-inter tracking-tight">
-              <p><span>Built for students, by students</span> - Edura was created by learners who experienced firsthand the challenges of traditional education systems and expensive tutoring solutions. As part of Schoolpad's educational technology ecosystem, we recognized the need for an intelligent, accessible learning platform that truly understands student needs.</p>
+              <p><span>Built for students, by students</span> - Aedura was created by learners who experienced firsthand the challenges of traditional education systems and expensive tutoring solutions. As part of Schoolpad's educational technology ecosystem, we recognized the need for an intelligent, accessible learning platform that truly understands student needs.</p>
               <p>Our mission is simple: democratize quality education through AI and psychological insights. <span>Every feature is designed, tested, and validated by actual students</span> who know what works in real academic situations, not theoretical assumptions.</p>
-              <p>Edura combines cutting-edge artificial intelligence with proven educational methodologies, creating a learning environment that adapts to each student's unique pace and style. We're not just another educational app - we're a comprehensive ecosystem <span>built with genuine student insight and experience</span>.</p>
+              <p>Aedura combines cutting-edge artificial intelligence with proven educational methodologies, creating a learning environment that adapts to each student's unique pace and style. We're not just another educational app - we're a comprehensive ecosystem <span>built with genuine student insight and experience</span>.</p>
               <p><span>Our student-centric development ensures practical, relevant solutions</span> that address real classroom challenges. Through our dual B2B and D2C approach, we serve both schools and individual learners with tools that are <span>5 times more affordable than existing alternatives</span>.</p>
-              <p>At Edura, we stay ahead of educational trends through continuous innovation, always ensuring our <span>peer-developed platform</span> delivers the most effective learning tools available.</p>
+              <p>At Aedura, we stay ahead of educational trends through continuous innovation, always ensuring our <span>peer-developed platform</span> delivers the most effective learning tools available.</p>
             </div>
           </div>
         </div>
@@ -221,7 +221,7 @@ export default function Home() {
 
       <footer className="footer sm:footer-horizontal footer-center bg-base-300 text-base-content p-4 font-inter font-semibold">
         <aside>
-          <p>Copyright <span>&copy;</span> {new Date().getFullYear()} - All right reserved by BuildEdge Inc.</p>
+          <p>Copyright <span>&copy;</span> {new Date().getFullYear()} - All right reserved by Aeudra Inc.</p>
         </aside>
       </footer>
       </div>

@@ -14,8 +14,8 @@ const inriaSerif = Inria_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Team Aedura",
-  description: "AI Integrated ERP App",
+  title: "Aedura | AI-Native ERP for The Next Gen",
+  description: "AI Native ERP for the next generation of Enterprise and Schools",
 };
 
 export default function RootLayout({
